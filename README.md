@@ -1,6 +1,6 @@
-====================================================
+
 🧠 RAG Chatbot with OpenAI / Gemini + Streamlit
-====================================================
+
 
 This is a **Retrieval-Augmented Generation (RAG)** chatbot that allows you to chat with your own documents (PDF, DOCX, PPTX, TXT). It uses OpenAI or Gemini models and provides a Streamlit-based UI for local use or desktop app mode.
 
