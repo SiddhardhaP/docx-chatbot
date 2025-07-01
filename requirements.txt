@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+PyMuPDF
+langchain
+langchain-community
+chromadb
+pdfplumber
+pywebview
+openai
+langchain-openai
+python-docx
+python-pptx

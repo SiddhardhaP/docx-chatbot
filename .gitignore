@@ -1,0 +1,22 @@
+# Environment variables
+# Never commit your API keys or other secrets!
+.env
+
+# Python
+# Ignore byte-compiled files, caches, and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+
+# IDE configuration
+# Ignore editor-specific settings
+.vscode/
+.idea/
